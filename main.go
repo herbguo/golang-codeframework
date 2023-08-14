@@ -6,9 +6,9 @@
 package main
 
 import (
-	"codeframework/pkg/middleware"
-	"codeframework/router"
 	"github.com/gin-gonic/gin"
+	"github.com/herbguo/golang-codeframework/pkg/middleware"
+	"github.com/herbguo/golang-codeframework/router"
 )
 
 func main() {
